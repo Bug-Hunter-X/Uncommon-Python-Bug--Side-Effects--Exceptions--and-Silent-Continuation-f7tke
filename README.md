@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon bug in Python. The bug arises from the interaction between a function with side effects, exception handling within a loop, and the use of `continue` to skip over erroneous items. This can lead to unpredictable results and data inconsistencies.  The solution provides an improved approach.
